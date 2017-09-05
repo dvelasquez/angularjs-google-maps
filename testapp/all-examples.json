@@ -321,7 +321,7 @@
   },
   "map_events.html": {
     "path": "testapp\\map_events.html",
-    "title": "\n      Google Maps V3 API Events for google.maps.Map Demo\n    "
+    "title": "\r\n      Google Maps V3 API Events for google.maps.Map Demo\r\n    "
   },
   "map_fit_bounds.html": {
     "path": "testapp\\map_fit_bounds.html",
